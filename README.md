@@ -5,4 +5,4 @@ I'm a Statistics and Data Science student at the University of California, Santa
 
 View my machine learning project "Predicting Polyvore Outfit Likes" [here](https://bellaesc.github.io/)!
 
-If you have any questions about any of my projects, contact me at bellaesc02@gmail.com
+If you have any questions about any of my projects, feel free to contact me at bellaesc02@gmail.com
